@@ -59,11 +59,13 @@ You install AFKify once. After that it keeps itself up to date:
 - The AFKify team never asks for your password or payment details in a DM.
 - Found a fake copy of AFKify? Tell us at [support@afkify.com](mailto:support@afkify.com).
 
-## Open source
+## Third-party open-source libraries
 
-AFKify includes open-source software. Its licences come with the app (**Help › About AFKify › Licences…**). The source
-code of the parts used under the GNU LGPL (Qt, Qt for Python and GEOS), in the exact versions each release uses, is
-published here as `lgpl-sources-…` releases, and each app release's notes link to its own.
+AFKify itself isn't open source. It's built on a few open-source libraries made by others, and their licences come
+with the app (**Help › About AFKify › Licences…**). Three of them (Qt, Qt for Python and GEOS) are used under the GNU
+LGPL, which asks that their source code is available from the same place as the app. So their makers' unchanged
+source archives, in the exact versions each release uses, are published here as `lgpl-sources-…` releases, and each
+app release's notes link to its own.
 
 ## About
 
